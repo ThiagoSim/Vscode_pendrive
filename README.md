@@ -9,7 +9,7 @@ Instruções:
 1 - fazer download da pasta "Vscode_": https://drive.google.com/drive/folders/1XHs6LxDp_dwC-wWP6Tsmrz2hqa2AOPGs?usp=share_link 
 
 
-2 - colocar o arquivo em um pendrive separado para ser utilizado na disciplina
+2 - colocar o arquivo em um pendrive
 
 
 3 - Dentro da pasta "VSCode_Pendrive", abrir o Vscode pelo arquivo "Code"
