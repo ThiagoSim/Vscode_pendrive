@@ -1,5 +1,5 @@
 # Vscode_pendrive
-Vscode  já configurado para a disciplina de Microcontrolados, que em um pendrive ou pasta qualquer sem precisar de instalação.
+Vscode já configurado para a disciplina de Microcontrolados, que pode ser executado em um pendrive sem precisar de instalação.
 
 A pasta "timer_interrupt_led_pendrive" tem um exemplo configurado e funcionando de timer com interrupção.
 
@@ -9,10 +9,13 @@ Instruções:
 1 - fazer download da pasta "Vscode_": https://drive.google.com/drive/folders/1XHs6LxDp_dwC-wWP6Tsmrz2hqa2AOPGs?usp=share_link 
 
 
-2 - Dentro da pasta "VSCode_Pendrive", abrir o Vscode pelo arquivo "Code"
+2 - colocar o arquivo em um pendrive separado para ser utilizado na disciplina
 
 
-3 - No Vscode, clicar em File -> Open Folder; em seguida selecionar a pasta de exemplo "timer_interrupt_led_pendrive" ou a pasta desejada do projeto.
+3 - Dentro da pasta "VSCode_Pendrive", abrir o Vscode pelo arquivo "Code"
+
+
+4 - No Vscode, clicar em File -> Open Folder; em seguida selecionar a pasta de exemplo "timer_interrupt_led_pendrive" ou a pasta desejada do projeto.
 
 
 RECOMENDAÇÂO: utilizar o exemplo funcionando para criar novos projetos e deixar todos os projetos na pasra "Vscode_"
